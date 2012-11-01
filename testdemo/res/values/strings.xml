@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, testdemo!</string>
+    <string name="app_name">testdemo</string>
+    <String-array name="Strings_array">
+    	<Item>a</Item>
+    	<Item>b</Item>
+    	<Item>c</Item>
+    </String-array>
+</resources>
